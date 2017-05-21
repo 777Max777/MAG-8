@@ -1,2 +1,36 @@
 18.03.2017 18:25:59 >> mscorlib threw ['Файл 'C:\Users\Лихотин\Desktop\MAG8\Enose\bin\Debug\config.xml' не найден.'] at System.IO.__Error.WinIOError
 ------------------------------------------------
+20.05.2017 20:13:35 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:13:38 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:13:41 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:13:42 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:13:43 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:13:44 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:13:44 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:15:46 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:15:54 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:15:57 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:15:58 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:15:59 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:16:00 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:16:01 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:16:21 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:24:23 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------
+20.05.2017 20:35:04 >> mscorlib threw ['Элемент с тем же ключом уже был добавлен.'] at System.ThrowHelper.ThrowArgumentException
+------------------------------------------------

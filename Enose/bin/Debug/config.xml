@@ -1,5 +1,5 @@
 <config>
-  <measureprofileid>45</measureprofileid>
+  <measureprofileid>47</measureprofileid>
   <connectionstring>Data Source=sniffdb.sdf;encryption mode=platform default;Password=password;</connectionstring>
   <comport>COM1</comport>
   <stabletime>6</stabletime>

@@ -11,7 +11,6 @@ namespace QuadroSoft.Enose.Dialogs
 {
     public partial class FormMeasureProfileSelect : Form
     {
-
         List<DataGridViewComboBoxCell> combos;
         CheckBox[] checks;
 
